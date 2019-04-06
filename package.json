@@ -1,0 +1,12 @@
+{
+  "name": "fbarrella.github.io",
+  "version": "1.0.0",
+  "description": "Felipe B. Netto Portfolio",
+  "main": "index.js",
+  "repository": "https://github.com/fbarrella/fbarrella.github.io.git",
+  "author": "Felipe B. Netto <felipe.netto@mobiauto.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.29.6"
+  }
+}
