@@ -1,6 +1,7 @@
 @import 'themeConfig';
 
-h1 {
+html, body, pre, code, kbd, samp{
+    background-color: $themeColor-Dark !important;
+    color: $themeColor-Light !important;
     font-family: 'Press Start 2P';
-    color: $themeColor-Light;
 }

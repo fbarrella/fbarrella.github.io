@@ -2,9 +2,13 @@
   font-family: 'Press Start 2P';
   src: url(fonts/PressStart2P-Regular.ttf); }
 
-h1 {
-  font-family: 'Press Start 2P';
-  color: #f3e2c7; }
+html, body, pre, code, kbd, samp {
+  background-color: #0c1a27 !important;
+  color: #FFFFFF !important;
+  font-family: 'Press Start 2P'; }
+  html a:hover, body a:hover, pre a:hover, code a:hover, kbd a:hover, samp a:hover {
+    text-decoration: none;
+    color: #0c1a27 !important; }
 /*!***************************************************************************\
   NES.css Framework
   Version: development
