@@ -4,8 +4,33 @@
 
 html, body, pre, code, kbd, samp {
   background-color: #0c1a27 !important;
-  color: #FFFFFF !important;
   font-family: 'Press Start 2P'; }
+
+h1 {
+  font-size: 4.5vw; }
+
+h2 {
+  font-size: 4vw; }
+
+h3 {
+  font-size: 3.5vw; }
+
+.center {
+  text-align: center; }
+
+.justified {
+  text-align: justify; }
+
+#head {
+  margin-top: 2vh; }
+  #head .desc {
+    font-size: 3vw; }
+
+.text-light {
+  color: #FFFFFF !important; }
+
+.text-dark {
+  color: #0c1a27 !important; }
 /*!***************************************************************************\
   NES.css Framework
   Version: development

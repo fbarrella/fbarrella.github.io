@@ -2,6 +2,41 @@
 
 html, body, pre, code, kbd, samp{
     background-color: $themeColor-Dark !important;
-    color: $themeColor-Light !important;
     font-family: 'Press Start 2P';
+}
+
+h1{
+    font-size: 4.5vw;
+}
+
+h2{
+    font-size: 4vw;
+}
+
+h3{
+    font-size: 3.5vw;
+}
+
+.center {
+    text-align: center;
+}
+
+.justified {
+    text-align: justify;
+}
+
+#head{
+    margin-top: 2vh;
+
+    .desc{
+        font-size: 4vw;
+    }
+}
+
+.text-light{
+    color: $themeColor-Light !important;
+}
+
+.text-dark{
+    color: $themeColor-Dark !important;
 }
