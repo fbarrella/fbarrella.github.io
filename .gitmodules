@@ -1,3 +1,6 @@
 [submodule "magnet-player"]
 	path = magnet-player
 	url = https://github.com/fbarrella/magnet-player.git
+[submodule "carouseria"]
+	path = carouseria
+	url = https://github.com/fbarrella/carouseria.git
